@@ -17,7 +17,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:fontFamily="casual"
+            android:fontFamily="sans-serif-black"
             android:gravity="center"
             android:text="Bucket List"
             android:textColor="#EC670E"
@@ -30,7 +30,7 @@
             android:layout_below="@id/title_bucket_list"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="6dp"
-            android:fontFamily="casual"
+            android:fontFamily="sans-serif-light"
             android:text="ankurtambe3006@gmail.com"
             android:textColor="@color/black"
             android:textSize="16sp" />
