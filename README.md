@@ -1,2 +1,3 @@
-AnkursBucketList
-ANDROID STUDIO RelativeLayout|TextView|TextView|CardView|ImageView|
+# AnkursBucketList
+ANDROID STUDIO
+RelativeLayout|TextView|TextView|CardView|ImageView|
